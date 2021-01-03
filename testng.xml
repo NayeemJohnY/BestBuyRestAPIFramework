@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="testUtils.AnnoationTransformer"/>
+</listeners>
+  <test thread-count="10" name="Test">
+    <classes>
+      <class name="tests.TestStoresEndpoint"/>
+      <class name="tests.TestProductsEndpoint"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

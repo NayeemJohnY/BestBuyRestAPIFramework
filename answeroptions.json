@@ -1,0 +1,64 @@
+{
+	"feedBackMathList": [
+	],
+	"cgi": "YKMVZYZ6DUX23EC48097",
+	"entitySubType": "fill-in-the-blank",
+	"promptMathList": [
+	],
+	"imagesCountInPrompt": 1,
+	"options": [
+		[
+			{
+				"optionType": "correct-option",
+				"answerOptionText": "Peripheral nervous system",
+				"optionNumber": 1,
+				"AnswerMathList": [
+				],
+				"MediaInAnswerOption": {
+				},
+				"optionCGI": "HSBJ277PKANFWLR3T848"
+			},
+			{
+				"optionType": "incorrect-option",
+				"answerOptionText": "Central nervous system",
+				"optionNumber": 2,
+				"AnswerMathList": [
+				],
+				"MediaInAnswerOption": {
+				},
+				"optionCGI": "JYSF9FT86P2FKMQY0253"
+			}
+		],
+		[
+			{
+				"optionType": "incorrect-option",
+				"answerOptionText": "Peripheral nervous system",
+				"optionNumber": 1,
+				"AnswerMathList": [
+				],
+				"MediaInAnswerOption": {
+				},
+				"optionCGI": "EVWN95ZMAS1Y023H1085"
+			},
+			{
+				"optionType": "correct-option",
+				"answerOptionText": "Central nervous system",
+				"optionNumber": 2,
+				"AnswerMathList": [
+				],
+				"MediaInAnswerOption": {
+				},
+				"optionCGI": "AUPVAQPAL54PA01R1787"
+			}
+		]
+	],
+	"optionFeedbackText": "The central nervous system consists of the neurons in the brain and spinal cord. Peripheral nerves connect to and relay signals between the central nervous system and the tissues of the body.",
+	"imagesCountInFeedBack": 0,
+	"promptText": [
+		"The following is a simplified diagram of the nerves that regulate the bicep muscles. Label the peripheral nervous system nerves and the central nervous system nerves.",
+		"A ",
+		"B "
+	],
+	"fitbType": "soa::v2::cars::drop-down-entry",
+	"isCarsTablePresent": false
+}
